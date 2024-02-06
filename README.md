@@ -4,9 +4,9 @@
 - 🌱 Estou aprendendo Java com Spring boot. 
 - 😄 Pronouns: Ele/Dele.
 
-<img alt="my stats" align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=As7Vezes&show_icons=true&theme=radical"/>
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=As7Vezes&show_icons=true&theme=radical"/>
 
-<img alt="top langs" align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=As7Vezes&layout=compact&theme=radical"/>
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=As7Vezes&layout=compact&theme=radical"/>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
